@@ -38,7 +38,7 @@ Somos un equipo comprometido con el análisis y diseño de sistemas de informaci
 📧 Correo: sara.palacio522@pascualbravo.edu.co
 🎯 Rol: Análisis y diseño conceptual
 
-![Foto Integrante 1](https://drive.google.com/file/d/1S8lwRf32_VdPNZES5ZDPWUPP-NWpIgwH/view?usp=sharing)
+![Foto Integrante 1](https://drive.google.com/uc?export=view&id=1S8lwRf32_VdPNZES5ZDPWUPP-NWpIgwH)
 
 ---
 
@@ -48,7 +48,7 @@ Somos un equipo comprometido con el análisis y diseño de sistemas de informaci
 📧 Correo: yuli.blanco941@pascualbravo.edu.co
 🎯 Rol: Modelado de entidades y atributos
 
-![Foto Integrante 2](https://drive.google.com/file/d/1SvHNzFA01AtzDmW7KNdkCDdAJ0g6tPKa/view?usp=sharing)
+![Foto Integrante 2](https://drive.google.com/uc?export=view&id=1SvHNzFA01AtzDmW7KNdkCDdAJ0g6tPKa)
 
 ---
 
@@ -58,7 +58,7 @@ Somos un equipo comprometido con el análisis y diseño de sistemas de informaci
 📧 Correo: cjuan.restrepo051@pascualbravo.edu.co
 🎯 Rol: Relaciones y cardinalidades
 
-![Foto Integrante 3](https://drive.google.com/file/d/1TDLbslAtQo7D92v8xAcTZxuH1pUyaJ5V/view?usp=sharing)
+![Foto Integrante 3](https://drive.google.com/uc?export=view&id=1TDLbslAtQo7D92v8xAcTZxuH1pUyaJ5V)
 
 ---
 
@@ -68,7 +68,7 @@ Somos un equipo comprometido con el análisis y diseño de sistemas de informaci
 📧 Correo: julian.velasquez380@pascualbravo.edu.co
 🎯 Rol: Integración del modelo y documentación
 
-![Foto Integrante 4](https://drive.google.com/file/d/1nLnb8Ul-YUlgjNPMGY0KOqsaONODlzQ3/view?usp=sharing)
+![Foto Integrante 4](https://drive.google.com/uc?export=view&id=1nLnb8Ul-YUlgjNPMGY0KOqsaONODlzQ3)
 
 ---
 
