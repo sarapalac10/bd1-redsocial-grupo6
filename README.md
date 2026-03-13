@@ -23,7 +23,6 @@ Cada carpeta corresponde a una de las tareas solicitadas en clase.
 
 ## **Miembros del Equipo**
 
-- Líder: Sara Palacio Zapata
 - Integrante: Yuli Tatiana Blanco Nieto
 - Integrante: Juan David Restrepo Bedoya
 - Integrante: Julián Velásquez Salas
@@ -64,14 +63,6 @@ Somos un equipo comprometido con el análisis y diseño de sistemas de informaci
 
 ---
 
-### 👩‍💻 Sara Palacio Zapata
-
-📌 Programa: Tecnología en Desarrollo de Software  
-📧 Correo: sara.palacio522@pascualbravo.edu.co
-
-![Foto Integrante 1](https://drive.google.com/thumbnail?id=1S8lwRf32_VdPNZES5ZDPWUPP-NWpIgwH&sz=w1000)
-
----
 
 ### 👩‍💻 Yuli Tatiana Blanco Nieto
 
