@@ -80,14 +80,6 @@ Somos un equipo comprometido con el análisis y diseño de sistemas de informaci
 
 ![Foto Integrante 3](https://drive.google.com/thumbnail?id=1TDLbslAtQo7D92v8xAcTZxuH1pUyaJ5V&sz=w1000)
 
----
-
-### 👨‍💻 Julián Velásquez Salas
-
-📌 Programa: Tecnología en Desarrollo de Software  
-📧 Correo: julian.velasquez380@pascualbravo.edu.co
-
-![Foto Integrante 4](https://drive.google.com/thumbnail?id=1nLnb8Ul-YUlgjNPMGY0KOqsaONODlzQ3&sz=w1000)
 
 ---
 
